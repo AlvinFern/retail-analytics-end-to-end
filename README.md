@@ -102,8 +102,6 @@ A growing share of revenue was concentrated in a small group of high-value repea
 
 ## 📸 Dashboard Preview
 
-> *(Add screenshots of your Power BI dashboards here)*
-
 **Executive Summary Dashboard**
 <img width="1187" height="664" alt="Screenshot 2026-08-19 202021" src="https://github.com/user-attachments/assets/24c85987-d360-45d4-b09d-4c334f31952b" />
 
